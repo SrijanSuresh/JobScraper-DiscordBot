@@ -11,7 +11,7 @@ job_sites = {
 
 keywords = ["New Grad 2026", "Graduating 2026", "Bachelors", "University Graduate", "Entry Level"]
 
-DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1402507844321935430/UF1KFfDxZ_PSUpm-8W6VAQv-MIkPYb_BKYaekkaC2cLx_9J4MdQKvBeqqGPG9K6cckSK"  # replace this
+DISCORD_WEBHOOK = ""  # replace this
 
 def notify_discord(message):
     payload = {
